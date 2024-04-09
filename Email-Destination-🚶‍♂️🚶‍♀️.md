@@ -14,7 +14,3 @@ Save your destination and you can already use it!
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

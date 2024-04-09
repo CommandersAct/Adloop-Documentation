@@ -75,7 +75,3 @@ At the bottom of the page can be found a colour glossary. This aims to make the 
 
 ![](.gitbook/Screenshot 2022-10-05 at 15.22.32.png)
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -160,7 +160,3 @@ Data sources
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

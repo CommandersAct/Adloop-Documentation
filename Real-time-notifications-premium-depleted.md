@@ -54,7 +54,3 @@ After finishing the last step your notifications will arrive to your inbox accor
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

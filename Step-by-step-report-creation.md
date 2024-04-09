@@ -70,7 +70,3 @@ If you want a complete presentation of the reports items, you can watch:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

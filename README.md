@@ -110,7 +110,3 @@ If you cannot find an answer to your question, you can use the chat or the conta
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

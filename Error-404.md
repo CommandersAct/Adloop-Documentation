@@ -78,7 +78,3 @@ In the metrics menu, you can go to Metrics by Source → Google Analytics and yo
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

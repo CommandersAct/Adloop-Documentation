@@ -90,7 +90,3 @@ The Goal Notification is different from the Threshold Notification as it tells y
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

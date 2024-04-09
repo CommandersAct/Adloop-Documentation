@@ -97,7 +97,3 @@ To organize your  **data menus**  as you want, to create  **matching**  rules be
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

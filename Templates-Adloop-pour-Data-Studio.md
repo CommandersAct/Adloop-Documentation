@@ -28,7 +28,3 @@ The second page gives you an incremental view of your report. Allowing you to ad
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -149,7 +149,3 @@ More information in the following sections:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

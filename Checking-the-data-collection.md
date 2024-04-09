@@ -107,7 +107,3 @@ If you have discrepancies and need help, please contact our Customer Success tea
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

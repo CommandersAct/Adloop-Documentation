@@ -36,7 +36,3 @@ Your Teams Destination now appears in the list of destinations.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

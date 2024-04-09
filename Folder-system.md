@@ -34,7 +34,3 @@ If you want to edit or delete your folder just click on the 3 dots in the corner
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

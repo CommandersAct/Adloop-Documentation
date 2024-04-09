@@ -10,7 +10,3 @@ Don’t forget that adding data sources to Adloop is mandatory!
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

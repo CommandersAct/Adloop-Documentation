@@ -47,7 +47,3 @@ If you are already logged-in or after entering all the informations, you will ha
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

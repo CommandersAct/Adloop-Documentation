@@ -201,7 +201,3 @@ adloop_click_1_meta and for the value select the second user defined variable yo
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -31,7 +31,3 @@ note **Reports Templates**  were created for specific objectives on marketing ch
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

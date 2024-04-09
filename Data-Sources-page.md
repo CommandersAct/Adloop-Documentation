@@ -72,7 +72,3 @@ Deleting a Data Source will delete all the data history.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

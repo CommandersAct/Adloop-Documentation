@@ -47,7 +47,3 @@ A window like this will open up at the bottom of the page.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

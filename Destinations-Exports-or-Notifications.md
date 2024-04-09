@@ -6,7 +6,3 @@ See [[ **Notification Destinations** |Integrations]]
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

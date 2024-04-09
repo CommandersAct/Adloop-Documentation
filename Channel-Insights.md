@@ -40,7 +40,3 @@ By default you are subscribed to the all the channels, however you have to optio
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

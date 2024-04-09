@@ -28,7 +28,3 @@ Your Google Chat Destination now appears in the destinations lists.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

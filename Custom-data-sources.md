@@ -68,7 +68,3 @@ From this list, you can delete one or more imports if the data are no longer up 
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

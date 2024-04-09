@@ -69,7 +69,3 @@ If you use a single tag for initializing your analytics solution and for sending
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

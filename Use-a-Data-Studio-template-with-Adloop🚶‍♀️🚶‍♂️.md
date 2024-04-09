@@ -98,7 +98,3 @@ If you have any problems or questions, please do not hesitate to contact our sup
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -32,7 +32,3 @@ Since we perform conversions on a daily basis, we are dependent on changes in ex
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

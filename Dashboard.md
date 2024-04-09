@@ -121,7 +121,3 @@ If you are not content with a widget you can easily edit by clicking on the conf
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

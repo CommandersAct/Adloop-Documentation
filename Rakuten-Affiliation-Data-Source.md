@@ -50,7 +50,3 @@ That's it, well done !
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

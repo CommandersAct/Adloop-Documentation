@@ -96,7 +96,3 @@ There are 16 types of report templates available:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

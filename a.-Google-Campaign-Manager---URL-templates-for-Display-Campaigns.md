@@ -39,7 +39,3 @@ Before using the reporting & trafficking API, you must 
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -60,7 +60,3 @@ The list of Sites you have access to in the current Workspace is shown in the to
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

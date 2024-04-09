@@ -39,7 +39,3 @@ There are 3 levels of access in Adloop: User, Dataset Administrator and Responsi
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

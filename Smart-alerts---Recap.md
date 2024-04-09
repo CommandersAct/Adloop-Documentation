@@ -108,7 +108,3 @@ The Recap will include the following:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

@@ -52,7 +52,3 @@ You can now click on the Go! button and generate your report!
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

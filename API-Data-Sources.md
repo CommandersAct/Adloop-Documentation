@@ -81,7 +81,3 @@ We will gather a full year of data history.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

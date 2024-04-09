@@ -43,7 +43,3 @@ The thresholds are the following:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

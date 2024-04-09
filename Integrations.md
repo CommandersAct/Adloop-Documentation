@@ -44,7 +44,3 @@ Adloop sends the Notifications to a Teams room. See the step-by-step set up in [
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

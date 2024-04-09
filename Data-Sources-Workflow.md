@@ -60,7 +60,3 @@ See our page dedicated to [[ **Data Quality** |Data-Quality]].
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

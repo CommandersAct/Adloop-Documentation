@@ -15,7 +15,3 @@ In the calendar, you have the option to compare time periods in your report.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

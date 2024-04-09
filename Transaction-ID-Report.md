@@ -70,7 +70,3 @@ In the report you can see the source of the conversion and the attributed % in t
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

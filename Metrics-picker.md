@@ -34,7 +34,3 @@ Here are displayed the selected metrics.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

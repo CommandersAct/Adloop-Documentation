@@ -400,7 +400,3 @@ Filters:
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

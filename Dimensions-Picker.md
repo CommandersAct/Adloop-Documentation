@@ -38,7 +38,3 @@ Here are displayed the selected dimensions.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

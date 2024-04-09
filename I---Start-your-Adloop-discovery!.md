@@ -34,7 +34,3 @@ To connect a Data Source to Adloop, go to the  **Data Sources**  menu!
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

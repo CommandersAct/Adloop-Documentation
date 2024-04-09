@@ -84,7 +84,3 @@ The dimension does not contain personal data
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

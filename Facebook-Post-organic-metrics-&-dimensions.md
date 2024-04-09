@@ -36,7 +36,3 @@ An estimated metric is derived through statistical sampling or modelling, rather
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

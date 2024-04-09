@@ -50,7 +50,3 @@ By default,  **all users on your dataset will be subscribed**  on that smart ale
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

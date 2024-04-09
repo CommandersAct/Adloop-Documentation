@@ -93,7 +93,3 @@ You can also add a Filter value by clicking on the Filter icon in any cell with 
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

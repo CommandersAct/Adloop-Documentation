@@ -55,7 +55,3 @@ You have two options :
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

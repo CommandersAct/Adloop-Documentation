@@ -56,7 +56,3 @@ Touchpoints per conversion / Duplication rateNumber of appearances in the paths 
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

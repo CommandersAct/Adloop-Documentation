@@ -16,7 +16,3 @@ It is possible to select your dates directly there.
 
 
 
-*****
-
-[[category.storage-team]] 
-[[category.confluence]] 

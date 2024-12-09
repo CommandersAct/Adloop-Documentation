@@ -1,25 +1,24 @@
 # Data Sources
 
-
 > What if I'm using an advertising platform that doesn't exist in your list of connectors?
 
 If an API is available, we can develop the connector so that you can benefit from it. Feasibility and timeframe are to be determined by the technical team.
 
 If no API is available, you can use our universal connector (Custom Data Source) to import any type of data from an Excel sheet or CSV, either as a single import or as a regular automated import (via email or FTP).
 
- 
+&#x20;
 
 > I have specific internal sources (CRM, transactional database, proprietary tracking). Can I supply them to you?
 
 Yes, you can use our universal connector (Custom Data Source) to import any type of data from an Excel or CSV sheet, either as a single import or as a regular automated import (via email or FTP).
 
- 
+&#x20;
 
 > If I want to import data manually, such as agency fees or tool costs, how do I go about it?
 
 Our universal connector (Custom Data Source) enables you to import any type of data from an Excel sheet or CSV, either as a single import or as an automated regular import (via email or FTP).
 
- 
+&#x20;
 
 > What depth of history from a data source is imported for each connector? Is it possible to have several years of history?
 
@@ -27,7 +26,7 @@ After connecting the data source, Adloop downloads one year's data history. You 
 
 On the other hand, attribution only starts generating data once the collection script has been activated.
 
- 
+&#x20;
 
 > How often is the data updated?
 
@@ -37,7 +36,7 @@ Advertising platforms are updated every 3 hours. Analytics platforms 2 times a d
 
 Custom data sources are updated as soon as the data file is received.
 
- 
+&#x20;
 
 > Can I connect several advertising accounts from the same platform?
 
@@ -45,7 +44,7 @@ Yes, you can connect as many accounts as you like for each connector.
 
 Some commercial offers limit the number of connectors you can connect, so don't hesitate to increase your subscription.
 
- 
+&#x20;
 
 > I have an advertising account that covers several countries, but I only want to import campaigns from one country. How can I do this?
 

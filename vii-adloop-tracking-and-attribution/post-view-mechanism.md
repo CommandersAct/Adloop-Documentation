@@ -1,6 +1,6 @@
 # Post-View Mechanism
 
-The post-view reattribution feature is a key component of the attribution models offered on our platform. It complements post-click attribution to provide a more comprehensive and precise view of your campaign performance. Integrated into all available models, including the Data-Driven model, post-view attribution enhances your analysis by accounting for the impact of advertising exposures that generate engagement, even without direct clicks.
+The post-view reattribution feature is a key component of the attribution models offered on our platform. It complements post-click attribution to provide a more comprehensive and precise view of your campaign performance. Integrated into all available models, including the Data-Driven model, post-view attribution enhances your analysis by accounting for the impact of advertising exposures that increases awareness and engagement, even without direct clicks.
 
 ***
 
@@ -17,7 +17,7 @@ It evaluates impressions and interactions (engagements) to quantify the indirect
 
 1. **Complementary to Post-Click Attribution:**
    * Post-click focuses on conversions directly resulting from a click.
-   * Post-view captures conversions influenced by advertising exposure without immediate interaction (click).
+   * Post-view captures conversions influenced by advertising exposure without immediate and directly measurable interaction (click).
 2. **Conversion Redistribution:**
    * Conversions attributed to SEO and Direct Access are partially reallocated to channels that delivered relevant exposures (impressions) or significant interactions (engagements).
    * These channels include social media, programmatic display, video campaigns, email, influencers, audio and affiliation.
@@ -45,7 +45,7 @@ It evaluates impressions and interactions (engagements) to quantify the indirect
 #### **Simplified Example of Application:**
 
 {% hint style="info" %}
-**Note:** For obvious reasons, Commanders Act cannot reveal the exact "secret sauce" of its algorithm. The following example is simplified to illustrate the general principles behind post-view reattribution.
+**Note:** For obvious reasons, Commanders Act cannot reveal the exact "secret sauce" of its algorithm, based on our experience in contribution/attribution analysis since 12 years. The following example is simplified to illustrate the general principles behind post-view reattribution.
 {% endhint %}
 
 Suppose we have 1,000 conversions initially over-attributed to Direct Access and SEO:
